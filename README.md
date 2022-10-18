@@ -1,9 +1,9 @@
 ### Hi there 👋
 
-<img src="https://github.com/KutayTopac/KutayTopac/blob/main/200.gif" width="auto">
+<img src="https://github.com/KutayTopac/KutayTopac/blob/main/200.gif" width="400">
 
 
-<img src="https://github.com/KutayTopac/KutayTopac/blob/main/programming-languages.gif" width="auto">
+<img src="https://github.com/KutayTopac/KutayTopac/blob/main/programming-languages.gif" width="400">
 
 Here are some ideas to get you started:
 
