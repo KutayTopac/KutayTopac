@@ -5,7 +5,7 @@
 
 <img src="https://github.com/KutayTopac/KutayTopac/blob/main/programming-languages.gif" width="400">
 
-Here are some ideas to get you started:
+
 
 - 🔭 I’m currently working on C#, OOP ...
 - 🌱 I’m currently learning  SQL, HTML, JS, CSS...
