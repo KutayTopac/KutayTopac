@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-
+<img src="file:///C:/Users/pc/Desktop/indirilenşeyler/200.gif" width="auto">
 
 Here are some ideas to get you started:
 
