@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-
+<img src="https://github.com/KutayTopac/KutayTopac/blob/main/200.gif" width="auto">
 
 Here are some ideas to get you started:
 
