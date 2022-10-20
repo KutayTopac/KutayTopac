@@ -1,10 +1,6 @@
 ### Hi there 👋
 
-<img src="https://github.com/KutayTopac/KutayTopac/blob/main/200.gif" width="400">
-
-
-<img src="https://github.com/KutayTopac/KutayTopac/blob/main/programming-languages.gif" width="400">
-
+<img src="https://github.com/KutayTopac/KutayTopac/blob/main/200.gif" width="500">   <img src="https://github.com/KutayTopac/KutayTopac/blob/main/hakkimizda828721_26_10_2019.gif" width="500">
 
 
 - 🔭 I’m currently working on C#, OOP ...
@@ -14,6 +10,14 @@
 
 
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-C13584?style=flat-quare&labelColor=C13584&logo=instagram&logoColor=white&link=link)](https://z-p15.www.instagram.com/kutaytopac/) 
+
+
+
+<img src="https://https://github.com/KutayTopac/KutayTopac/blob/main/images.jpg" width="500">  <img src="https://https://github.com/KutayTopac/KutayTopac/blob/main/200%20(1).gif" width="500">
+
+
+
+
 
 
 
