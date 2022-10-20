@@ -13,8 +13,11 @@
 
 
 
-<img src="https://https://github.com/KutayTopac/KutayTopac/blob/main/images.jpg" width="500">  <img src="https://https://github.com/KutayTopac/KutayTopac/blob/main/200%20(1).gif" width="500">
 
+
+
+
+<img src="https://github.com/KutayTopac/KutayTopac/blob/main/200%20(1).gif" width="100">  <img src="https://github.com/KutayTopac/KutayTopac/blob/main/images.jpg" width="130">  
 
 
 
